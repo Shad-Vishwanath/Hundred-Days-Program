@@ -28,6 +28,6 @@ class Solution {
 }
 ```
 
-## Complexity Analysis
-Time Complexity: O(log N) — Search space halves in each step`.
+## Complexity Analysis 
+Time Complexity: O(log N) — Search space halves in each step.  
 Space Complexity: O(1) — Iterative approach uses constant space.
