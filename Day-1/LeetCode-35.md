@@ -26,6 +26,6 @@ class Solution {
 }
 ```
 
-##Complexity Analysis
+## Complexity Analysis
 Time Complexity: O(log N) — Halving array space each step.  
 Space Complexity: O(1) — Constant memory overhead.
